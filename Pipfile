@@ -9,6 +9,8 @@ pylint = "*"
 [packages]
 pylint-django = "*"
 django = "*"
+django-tinymce-lite = "*"
+django-tinymce4-lite = "*"
 
 [requires]
 python_version = "3.7"
